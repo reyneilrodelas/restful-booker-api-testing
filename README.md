@@ -37,7 +37,7 @@ https://restful-booker.herokuapp.com/apidoc/index.html
 
 ## How to Run
 
-1. Download the Postman collection JSON file.
+1. Download the Postman collection JSON file and the Postman environment.
 2. Open Postman.
 3. Click Import and select the downloaded collection.
 4. Configure the `baseUrl` environment variable.
